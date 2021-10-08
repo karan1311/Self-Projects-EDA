@@ -1,0 +1,6 @@
+This was my first independent project on a dataset. 
+Much of the operations I perform in this are basic. Here is a list:
+1. Load, explore and clean the Netflix dataset.
+2. Plot basic visualizations to explore the dataset.
+3. Perform statistical analysis on the dataset to find things like correlation b/w Release Year and Duration, Frequency of same-year-releases added to Netflix etc.
+4. Create a basic Recommendation Engine to suggest movies/TV shows to the users based on their inputs.
